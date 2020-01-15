@@ -1,4 +1,4 @@
-<h1>Whats in a Yelp Review?</h1>
+<h1>What's in a Yelp Review?</h1>
 <h3>Analyzing drivers of positive and negative sentiment on Yelp.</h3>
 
 This is my fourth, NLP-based project for the Metis Data Science Bootcamp.  The goal of this project is to use NLP to analyze Yelp reviews and decipher what drives positive and negative sentiment.  All data was downloaded from Yelp.com.
